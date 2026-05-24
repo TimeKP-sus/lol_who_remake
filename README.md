@@ -2,6 +2,6 @@
 
 Được dựa theo https://lolchallenge.net/lol-who và tạo ra vì game hay mà ngày chỉ được đoán đi đoán lại 1 con xong hơn nửa ngày mới đoán thêm con nữa thì quá chán :<
 
-(Thông tin tướng 1 số dựa theo trang liên minh và vài thông tin có thể tahy đổi theo meta quá khứ và tương lai có thể bị sai)
+(Thông tin tướng 1 số dựa theo trang liên minh và vài thông tin có thể thay đổi theo meta quá khứ và tương lai có thể bị sai)
 
 Link thử nghiệm: https://timekp-sus.github.io/lien_minh_who_export/index.html
