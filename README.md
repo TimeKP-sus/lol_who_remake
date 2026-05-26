@@ -4,4 +4,4 @@
 
 (Thông tin tướng 1 số dựa theo trang liên minh và vài thông tin có thể thay đổi theo meta quá khứ và tương lai có thể bị sai)
 
-Link thử nghiệm: https://timekp-sus.github.io/lien_minh_who_export/index.html
+Link thử nghiệm: [https://timekp-sus.github.io/lien_minh_who_export/index.html](https://timekp-sus.github.io/lol_who_remake/)
